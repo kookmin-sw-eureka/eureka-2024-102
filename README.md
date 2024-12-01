@@ -19,8 +19,9 @@
 ```c
 int main() {
     // 2024.09.05 ~ 2024.12.05
+
     double WE = 1;
-    for(int i = 0; i < 9; i++) {
+    for(int i = 0; i < 90; i++) {
         WE *= 1.01;   
     }
  
